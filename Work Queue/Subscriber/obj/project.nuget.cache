@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "SAU/LA3mGhd02WA+umTxau6fVlUrBZ9oX8wr8pXx8I/NKYZa9EdLCEvzjWSNlk7HyVoV06AN26Jlf+QrjyT1xw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kazim\\OneDrive\\Belgeler\\GitHub\\.Net-Core-ve-RabbitMQ-Kursu-Uygulamalar-\\Work Queue\\Subscriber\\Subscriber.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kazim\\.nuget\\packages\\rabbitmq.client\\6.8.1\\rabbitmq.client.6.8.1.nupkg.sha512",
+    "C:\\Users\\kazim\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\kazim\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
